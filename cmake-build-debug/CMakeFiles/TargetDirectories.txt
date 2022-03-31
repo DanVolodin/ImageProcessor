@@ -1,0 +1,7 @@
+/home/daniil_volodin/Image_Processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/CMakeFiles/contrib_catch_main.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/daniil_volodin/Image_Processor/cmake-build-debug/test/CMakeFiles/tests.dir
