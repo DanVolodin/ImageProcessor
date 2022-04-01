@@ -27,7 +27,7 @@ Here:
 1. Image from the `input.bmp` file is taken
 2. Is cut to an image starting at top left pixel with size 800x600 pixels
 3. Is turned to the shades of gray
-4. Is blured with sigma 0.5 is applied
+4. Blur with sigma 0.5 is applied
 5. Final image is saved to the `/tmp/output.bmp` file
 
 ## Filters
